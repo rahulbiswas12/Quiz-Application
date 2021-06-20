@@ -1,4 +1,4 @@
-<h2 align="center"> 🚀 Quiz Application 🚀</h2
+<h2 align="center"> Quiz Application </h2
 
 
 A MCQ-based Quiz Application that contains a set of curated questions and its answers and checks for the correctness of the answer given by the user. It navigates through the questions and displays the Result at the End.
